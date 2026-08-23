@@ -14,7 +14,7 @@
 
 ### Track record at a glance
 
-- **20 years in FinTech — from Central Bank national payment systems to enterprise AI platforms**
+- **20 years in B2B FinTech and banking platforms — from Central Bank national payment systems to enterprise AI platforms**
 - Grew the practice I lead from **$0.2M → $15M annual revenue** and **9 → 150+ specialists**
 - **8 national award-winning projects** across TAdviser IT Prize, CNews Innovation, FINNEXT, Best ESG, "Project of the Year"
 - **Payment Hub** — large-scale RF cross-border infrastructure ([TAdviser IT Prize 2023](https://tadviser.com/index.php/Project:VTB_Bank_(Financial_Transaction_Processing_Platform,_POFT))) · **VTB API Platform** — 2,000+ internal teams, 700+ APIs ([CNews Innovation 2023](https://www.cnews.ru/news/line/2023-06-22_platforma_api_vtb_priznana)) · **OpsNext** — 99% STP across 5.4B annual transactions · **Strela** — first corporate-deal personalization system in RF ([FINNEXT 2025](https://www.vtb.ru/about/press/news/?id=206015))
