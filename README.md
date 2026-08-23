@@ -46,7 +46,7 @@ Public, large-scale collaborations across borders:
 - **Cinimex Group** operates across **CIS and Southeast Asia** with regional offices including a dedicated [Kazakhstan office](https://cmx.kz/en/) — gives the team a working footprint across multiple regulatory perimeters
 - **Volkswagen Group AG** — joint dealer-network digital ecosystem and IDP platform with the Berlin office (Kubernetes / microservices, 40-person cross-border team)
 - **Alibaba / AliPay** — adoption of **ISO 20022** for cross-border payments processed through Russia
-- **Bank of Russia** — first **CBDC (digital ruble)** transactions in the country; first **B2B smart contracts in construction** (Mosinzhproekt); contributor to CBDC technical standards
+- **Central Bank of the Russian Federation (Bank of Russia)** — designed and built **nationwide payment infrastructure**, including **BESP**, Russia’s centralized real-time gross settlement (RTGS) system, and **RABIS-NP**, the standardized payment-processing platform used across Bank of Russia regional branches.
 - **Direct payment channels** built into Payment Hub: China (UnionPay, CIPS), India (NPCI, RuPay), Vietnam, Bangladesh — covering **~60% of RF cross-border trade** with the Asian region
 - **McKinsey & Company · EPAM Systems** — joint delivery on enterprise digital-transformation programs
 - Began my career at **Exigen Services** (now Emergn) — at the time a top-4 outsourcing firm globally, US clients, English-medium delivery
