@@ -8,7 +8,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/denis-ermilov)
 [![AI Meets Reality](https://img.shields.io/badge/Telegram-AI_Meets_Reality-26A5E4?logo=telegram&logoColor=white)](https://t.me/aimeetsreality)
 
-[AI Meets Reality](https://t.me/aimeetsreality) — notes on what actually happens when AI meets products, teams and business.
+**AI beyond the hype** — what actually happens when AI meets products, teams and business.
 
 ---
 
