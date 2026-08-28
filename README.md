@@ -18,7 +18,7 @@
 - Grew the practice I lead from **$0.2M → $15M annual revenue** and **9 → 150+ specialists**
 - **8 national award-winning projects** across TAdviser IT Prize, CNews Innovation, FINNEXT, Best ESG, "Project of the Year"
 - **Payment Hub** — large-scale RF cross-border infrastructure ([TAdviser IT Prize 2023](https://tadviser.com/index.php/Project:VTB_Bank_(Financial_Transaction_Processing_Platform,_POFT))) · **VTB API Platform** — 2,000+ internal teams, 700+ APIs ([CNews Innovation 2023](https://www.cnews.ru/news/line/2023-06-22_platforma_api_vtb_priznana)) · **OpsNext** — 99% STP across 5.4B annual transactions · **Strela** — first corporate-deal personalization system in RF ([FINNEXT 2025](https://www.vtb.ru/about/press/news/?id=206015))
-- **IEEE Senior Member** (#99277800) · **Patent holder** (RU 2012616579 — *Cinimex Test Tool*, deployed in 6 of the top-10 RF banks) · **Author** of *[Digital Bank](https://www.amazon.com/Digital-bank-%D0%BD%D0%B0%D1%81%D1%82%D0%BE%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BE-%D1%86%D0%B8%D1%84%D1%80%D0%BE%D0%B2%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%B8-%D1%84%D0%B8%D0%BD%D0%B0%D0%BD%D1%81%D0%BE%D0%B2%D0%BE%D0%B9-ebook/dp/B0C9MKSX5H)* (Amazon, 2023)
+- **IEEE Senior Member** (#99277800) · **Patent holder** (RU 2012616579 — *Cinimex Test Tool*, deployed in 6 of the top-10 RF banks) · **Author** of *[Digital Bank](https://www.amazon.com/dp/B0C9MKSX5H)* (2023) and of *[When Intelligence Became Cheap](https://www.amazon.com/dp/B0HGKTFNNJ)* (2026) — a three-book series on people, companies and trust under cheap AI
 
 ---
 
