@@ -12,26 +12,6 @@
 
 ---
 
-### 📚 When Intelligence Became Cheap — a three-book series
-
-<a href="https://www.amazon.com/dp/B0HGKTFNNJ">
-  <img src="assets/when-intelligence-became-cheap.jpg" alt="When Intelligence Became Cheap: The Human Edge, Business in the Age of AI Agents, The Economics of Trust — a three-book series by Denis Ermilov" width="100%">
-</a>
-
-**When intelligence becomes cheap, what becomes valuable instead?**
-
-AI drives the cost of output toward zero — documents, code, analyses, campaigns. Value moves to whoever owns the *outcome*. The series follows that shift at three levels: the individual, the organization, and trust itself.
-
-| | Book | The question it answers |
-|---|---|---|
-| **1** | **[The Human Edge](https://www.amazon.com/dp/B0HGS2C7VC)** | What stays valuable when AI produces a strong first draft in seconds |
-| **2** | **[Business in the Age of AI Agents](https://www.amazon.com/dp/B0HGJYR3C1)** | Which parts of a company should be redesigned around AI, not decorated with it |
-| **3** | **[The Economics of Trust](https://www.amazon.com/dp/B0HGMRD1N2)** | What deserves verification when anything can be generated |
-
-**[Read the series on Amazon →](https://www.amazon.com/dp/B0HGKTFNNJ)** · Workbooks, checklists and living pages that update more often than print: **[cheap-intelligence.vercel.app](https://cheap-intelligence.vercel.app/)**
-
----
-
 ### Track record at a glance
 
 - **20 years in B2B FinTech and banking platforms — from Central Bank national payment systems to enterprise AI platforms**
@@ -100,6 +80,18 @@ Public, large-scale collaborations across borders:
 - **AI runtime** — Claude Code · Codex CLI · OpenClaw · MCP servers · LightRAG · DeepSeek · Yandex AI Studio · Anthropic / OpenAI APIs
 - **Niche stack** — sing-box · xray · Reality protocol · Hetzner · Telethon · ASUS Merlin
 - **Languages & web** — TypeScript · Python · Java · React · Vite · FastAPI · Tailwind · shadcn/ui · Docker · SQLite · PostgreSQL · Linux
+
+---
+
+### Writing
+
+<a href="https://www.amazon.com/dp/B0HGKTFNNJ"><img src="assets/when-intelligence-became-cheap.jpg" align="right" width="300" alt="When Intelligence Became Cheap — a three-book series by Denis Ermilov"></a>
+
+The systems above are the practice; the books are where the argument gets written down. **[When Intelligence Became Cheap](https://www.amazon.com/dp/B0HGKTFNNJ)** (2026) works through one question at three levels — the individual in **[The Human Edge](https://www.amazon.com/dp/B0HGS2C7VC)**, the company in **[Business in the Age of AI Agents](https://www.amazon.com/dp/B0HGJYR3C1)**, and verification itself in **[The Economics of Trust](https://www.amazon.com/dp/B0HGMRD1N2)**: when producing an answer costs almost nothing, value moves to whoever owns the outcome.
+
+Earlier: ***[Digital Bank](https://www.amazon.com/dp/B0C9MKSX5H)*** (2023), a handbook on banking digital transformation. Working material from the series — checklists, workbooks and pages that get updated more often than print — lives at **[cheap-intelligence.vercel.app](https://cheap-intelligence.vercel.app/)**.
+
+<br clear="right">
 
 ---
 
