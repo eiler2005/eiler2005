@@ -87,11 +87,25 @@ Public, large-scale collaborations across borders:
 
 <a href="https://www.amazon.com/dp/B0HGKTFNNJ"><img src="assets/when-intelligence-became-cheap.jpg" align="right" width="300" alt="When Intelligence Became Cheap — a three-book series by Denis Ermilov"></a>
 
-The systems above are the practice; the books are where the argument gets written down. **[When Intelligence Became Cheap](https://www.amazon.com/dp/B0HGKTFNNJ)** (2026) works through one question at three levels — the individual in **[The Human Edge](https://www.amazon.com/dp/B0HGS2C7VC)**, the company in **[Business in the Age of AI Agents](https://www.amazon.com/dp/B0HGJYR3C1)**, and verification itself in **[The Economics of Trust](https://www.amazon.com/dp/B0HGMRD1N2)**: when producing an answer costs almost nothing, value moves to whoever owns the outcome.
+[![Amazon Kindle](https://img.shields.io/badge/Amazon_Kindle-3_book_series-FF9900?logo=bookstack&logoColor=white)](https://www.amazon.com/dp/B0HGKTFNNJ)
+[![Companion](https://img.shields.io/badge/Companion-open_method-0EA5E9?logo=readthedocs&logoColor=white)](https://cheap-intelligence.vercel.app/)
 
-Earlier: ***[Digital Bank](https://www.amazon.com/dp/B0C9MKSX5H)*** (2023), a handbook on banking digital transformation. The method behind the series is published in full at **[cheap-intelligence.vercel.app](https://cheap-intelligence.vercel.app/)**: agent contracts that state an agent's mandate, limits and audit trail; eval sets that catch an agent before it fails in front of a customer; a matrix for splitting work between human review and autonomous action; and a harness builder for assembling an agent's working context. Around 380 pages and a dozen browser tools, updated far more often than print.
+The systems above are the practice; the books are where the argument gets written down. ***[When Intelligence Became Cheap](https://www.amazon.com/dp/B0HGKTFNNJ)*** (2026) works through one question at three levels — the individual in **[The Human Edge](https://www.amazon.com/dp/B0HGS2C7VC)**, the company in **[Business in the Age of AI Agents](https://www.amazon.com/dp/B0HGJYR3C1)**, and verification itself in **[The Economics of Trust](https://www.amazon.com/dp/B0HGMRD1N2)**: when producing an answer costs almost nothing, value moves to whoever owns the outcome.
+
+Earlier: ***[Digital Bank](https://www.amazon.com/dp/B0C9MKSX5H)*** (2023), a handbook on banking digital transformation.
 
 <br clear="right">
+
+The method behind the series is published in full at **[cheap-intelligence.vercel.app](https://cheap-intelligence.vercel.app/)** — free, no sign-up:
+
+| | Framework | What it does |
+|---|---|---|
+| 📜 | **Agent contract** | States an agent's mandate, its limits, and the audit trail it must leave |
+| 🎯 | **Eval set** | Catches an agent before it fails in front of a customer |
+| ✋ | **Human review matrix** | Draws the line between what a person signs off and what an agent may decide alone |
+| 🔧 | **Harness builder** | Assembles the working context an agent actually runs in |
+
+Around 380 pages and a dozen browser tools, updated far more often than print.
 
 ---
 
