@@ -12,6 +12,26 @@
 
 ---
 
+### 📚 When Intelligence Became Cheap — a three-book series
+
+<a href="https://www.amazon.com/dp/B0HGKTFNNJ">
+  <img src="assets/when-intelligence-became-cheap.jpg" alt="When Intelligence Became Cheap: The Human Edge, Business in the Age of AI Agents, The Economics of Trust — a three-book series by Denis Ermilov" width="100%">
+</a>
+
+**When intelligence becomes cheap, what becomes valuable instead?**
+
+AI drives the cost of output toward zero — documents, code, analyses, campaigns. Value moves to whoever owns the *outcome*. The series follows that shift at three levels: the individual, the organization, and trust itself.
+
+| | Book | The question it answers |
+|---|---|---|
+| **1** | **[The Human Edge](https://www.amazon.com/dp/B0HGS2C7VC)** | What stays valuable when AI produces a strong first draft in seconds |
+| **2** | **[Business in the Age of AI Agents](https://www.amazon.com/dp/B0HGJYR3C1)** | Which parts of a company should be redesigned around AI, not decorated with it |
+| **3** | **[The Economics of Trust](https://www.amazon.com/dp/B0HGMRD1N2)** | What deserves verification when anything can be generated |
+
+**[Read the series on Amazon →](https://www.amazon.com/dp/B0HGKTFNNJ)** · Workbooks, checklists and living pages that update more often than print: **[cheap-intelligence.vercel.app](https://cheap-intelligence.vercel.app/)**
+
+---
+
 ### Track record at a glance
 
 - **20 years in B2B FinTech and banking platforms — from Central Bank national payment systems to enterprise AI platforms**
