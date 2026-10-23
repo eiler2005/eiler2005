@@ -123,7 +123,7 @@ Around 380 pages and a dozen browser tools, updated far more often than print.
 
 ### GitHub at a glance
 
-![Profile views](https://komarev.com/ghpvc/?username=eiler2005&style=flat&label=Profile+views&color=24292e)
+![Profile views](https://komarev.com/ghpvc/?username=eiler2005&style=flat&label=Profile%20views&color=24292e)
 ![Followers](https://img.shields.io/github/followers/eiler2005?style=flat&logo=github&label=Followers&labelColor=24292e)
 ![Total Stars](https://img.shields.io/github/stars/eiler2005?style=flat&logo=github&label=Total%20Stars&labelColor=24292e)
 
